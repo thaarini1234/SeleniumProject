@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SampleTestSuite">
+<test name="SampleTest01">
+<classes>
+<class name="com.picnic.mavensel.Login"/>
+</classes>
+</test>
+<!--  <test name="Sample2Test" >
+  <parameter name="browser" value="Firefox"/>
+    <classes>
+       <class name="com.picnic.mavensel.crossbrowser" />
+    </classes>
+  </test> -->
+</suite>
